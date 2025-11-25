@@ -21,8 +21,8 @@ and the path taken to reach each node.
 ```
 /*
 Program to implement Dijkstra's Algorithm 
-Developed by: SHANMUGAKARTHIK G
-RegisterNumber: 212223220105
+Developed by: Ranjan K
+RegisterNumber: 212222230116
 */
 #include<stdio.h> 
 #defineINFINITY9999
